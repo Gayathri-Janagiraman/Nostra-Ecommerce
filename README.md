@@ -25,7 +25,7 @@
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com/your-username/nostra.git
+   git clone https://github.com/Gayathri-Janagiraman/Nostra-Ecommerce.git
 
 2. Open index.html in your browser.
 
