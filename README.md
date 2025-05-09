@@ -3,7 +3,7 @@
 **Nostra** is a fully responsive e-commerce website built using HTML, CSS, and JavaScript. It features a dynamic shopping interface with interactive UI components, including a functional search bar, category-based filtering with checkboxes, and an image slider banner for showcasing products.
 
 ## Live Demo
-(Add your live demo link here if hosted)
+(https://gayathri-janagiraman.github.io/Nostra-Ecommerce/)
 
 ## Project Structure
 
